@@ -1,4 +1,5 @@
 __pycache__
 *-official.py
 *copy*.py
-*.txt
+api*.txt
+trash
